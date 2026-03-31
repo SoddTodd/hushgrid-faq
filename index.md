@@ -1,101 +1,54 @@
-# HushGrid – FAQ
+# FAQ — HushGrid and HushGrid Plus
 
-## What is HushGrid?
+Last updated: March 31, 2026
 
-HushGrid is a quiet space for layering sound.
+## What are HushGrid and HushGrid Plus?
 
-It is not a DAW.
-It is not a music production suite.
-It is not built for performance.
+HushGrid is a lightweight loop sketchpad for capturing and layering short audio moments.
 
-It is a simple instrument for capturing small moments.
+HushGrid Plus includes all core workflow features and adds:
+- audio import from Files
+- per-pad effects: Delay, Reverb, Pan
 
+## How do I record a pad?
 
----
+Tap an empty pad to start recording.
+Tap again to stop.
+The pad is then ready for loop playback.
 
-## How does it work?
+## How long can a pad recording be?
 
-Each pad can record and loop audio.
-You can layer sounds, adjust volume, and let them breathe together.
+Each pad recording is limited to 60 seconds to keep performance responsive.
 
-You can also record your full session and save it as a single mix.
+## How do I build a full mix?
 
+Use the main record button to capture the current grid output as a session mix.
 
----
+## Where are my recordings saved?
 
-## Where are my recorded sessions saved?
+Recordings and sessions are saved locally on your device.
 
-Session recordings are saved locally on your device.
-
-You can find them in the Files app under:
-
-On My iPhone → HushGrid
-
-They are exported as `.m4a` files.
-
-
----
-
-## Can I rename or share sessions?
+## Can I rename and share sessions?
 
 Yes.
+You can rename sessions in the app and share exported files using the iOS share sheet.
 
-You can rename sessions inside the app and share them using the standard iOS share sheet.
-
-HushGrid keeps things simple, but gives you control over your saved moments.
-
-
----
-
-## Does HushGrid collect any data?
+## Does the app collect data?
 
 No.
+HushGrid and HushGrid Plus do not collect personal data, do not use analytics, and do not track behavior.
 
-HushGrid does not collect analytics.
-It does not track usage.
-It does not require accounts.
-It does not send data anywhere.
+## Do I need an account?
 
-Everything stays on your device.
+No.
+Both apps work without account registration.
 
+## Is payment required to use core features?
 
----
+No.
+Core functionality is available without mandatory payment.
+Any support/tip options are optional.
 
-## Why is there a Support / Tip option?
+## I found a bug or want to suggest an improvement
 
-HushGrid is an independent project.
-
-If the app brings you calm, inspiration, or usefulness, you can choose to support its continued development.
-
-There are no locked features.
-Support is optional and appreciated.
-
-
----
-
-## Is HushGrid free?
-
-Yes.
-
-All core functionality is available without payment.
-
-
----
-
-## I found a bug or have a suggestion.
-
-You can open an issue on GitHub or contact the developer through the App Store page.
-
-Thoughtful feedback is always welcome.
-
-
----
-
-## Final Note
-
-HushGrid is meant to feel light.
-
-If you find yourself overthinking it,
-you can simply press record,
-layer a sound,
-and let it exist.
+Please contact the developer through the App Store listing.
